@@ -3,7 +3,7 @@
 <h2>My Projects:</h2>
 
 - <b>Algorithms Practice</b>
-  - [Praciting DS & Algos in Python]()
+  - [The Solution](https://github.com/Mohammed-Alsahli/Algorithm-project-.git)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
@@ -12,8 +12,8 @@
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>Computer Networking:</b>
-  - [The Project:](https://lms.imamu.edu.sa/bbcswebdav/pid-1192093-dt-content-rid-16933108_1/courses/144420_19395_330/CS330%20Project.pdf)
-  - [The Solution:](https://www.youtube.com/watch?v=p3KVrTl1Ea4&t=6s&ab_channel=MohammedWs)
+  - [The Project](https://lms.imamu.edu.sa/bbcswebdav/pid-1192093-dt-content-rid-16933108_1/courses/144420_19395_330/CS330%20Project.pdf)
+  - [The Solution](https://www.youtube.com/watch?v=p3KVrTl1Ea4&t=6s&ab_channel=MohammedWs)
  
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
