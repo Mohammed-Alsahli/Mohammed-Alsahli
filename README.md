@@ -25,8 +25,7 @@
 
 [twitter]: https://twitter.com/mwAlsahli
 
-[linkedin]: https://linkedin.com/in/mohammed-alsahli
-
+[linkedin]: https://www.linkedin.com/in/mohammed-alsahli-750823255/
 <!--
 
 Here are some ideas to get you started:
