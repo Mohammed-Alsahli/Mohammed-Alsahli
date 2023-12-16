@@ -14,8 +14,8 @@
   - [The Project](https://lms.imamu.edu.sa/bbcswebdav/pid-1192093-dt-content-rid-16933108_1/courses/144420_19395_330/CS330%20Project.pdf)
   - [The Solution](https://www.youtube.com/watch?v=p3KVrTl1Ea4&t=6s&ab_channel=MohammedWs)
  
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Graduation Project</b>
+  - [My Graduation Project]()
 
 
 <h2>Connect with me:</h2>
@@ -23,12 +23,11 @@
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[twitter]: https://twitter.com/joshmadakor
+[twitter]: https://twitter.com/mwAlsahli
 
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://linkedin.com/in/mohammed-alsahli
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
