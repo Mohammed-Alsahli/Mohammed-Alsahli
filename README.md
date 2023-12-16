@@ -4,8 +4,8 @@
 
 - <b>Algorithms Practice</b>
   - [The Solution](https://github.com/Mohammed-Alsahli/Algorithm-project-.git)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b> Computer Forensics Books & tools</b>
+  - [Image Analysis Middleware]() <b>
 - <b>Cybersecurity Hands-On Practice And Projects</b>
   - [Secret-Key Encryption Lab By Wenliang Du](https://github.com/Mohammed-Alsahli/Secret-Key-Encryption.git)
   - [Public-Key Infrastructure (PKI) Lab By Wenliang Du](https://github.com/Mohammed-Alsahli/Public-Key-Infrastructure-PKI-Lab.git)
