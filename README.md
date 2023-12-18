@@ -5,7 +5,10 @@
 - <b>Algorithms Practice</b>
   - [The Solution](https://github.com/Mohammed-Alsahli/Algorithm-project-.git)
 - <b> Computer Forensics Books & tools</b>
-  - [Image Analysis Middleware]() <b>
+  - [Autopsy](https://github.com/Mohammed-Alsahli/-Autopsy.git)
+  - [AccessData-FTK-Imager](https://github.com/Mohammed-Alsahli/AccessData-FTK-Imager.git)
+  - [report](https://github.com/Mohammed-Alsahli/report-about-the-current-digital-forensics-field..git)
+  - [The Book: Guide to Computer Forensics and Investigations: Processing Digital Evidence, Sixth Edition Bill Nelson, Amelia Phillips, Christopher Steuart ] <b>
 - <b>Cybersecurity Hands-On Practice And Projects</b>
   - [Secret-Key Encryption Lab By Wenliang Du](https://github.com/Mohammed-Alsahli/Secret-Key-Encryption.git)
   - [Public-Key Infrastructure (PKI) Lab By Wenliang Du](https://github.com/Mohammed-Alsahli/Public-Key-Infrastructure-PKI-Lab.git)
